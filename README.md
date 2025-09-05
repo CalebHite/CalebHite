@@ -28,6 +28,6 @@ I'm a student and developer with a love for solving real-world problems through 
 
 ### 🌐 Connect with Me
 
-- **Website:** [calebhite.com](https://calebhite.com)
-- **LinkedIn:** [Caleb Hite](https://www.linkedin.com/in/caleb-hite-463214176/)
-- **Email:** chite2457@gmail.com
+- [**Website**](https://calebhite.com)
+- [**LinkedIn**](https://www.linkedin.com/in/caleb-hite-463214176/)
+- **Email** chite2457@gmail.com
